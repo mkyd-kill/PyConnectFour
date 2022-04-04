@@ -3,7 +3,6 @@
 # using the minimax rule which is used in artificial intelligence to make decisions
 # the alpha beta pruning helps in speed choicing of the AI
 
-from types import new_class
 import numpy as np
 import pygame
 import sys
